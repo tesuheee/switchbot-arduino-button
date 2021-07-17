@@ -1,0 +1,113 @@
+{
+  "statusCode": 100,
+  "body": {
+    "deviceList": [
+      {
+        "deviceId": "3C6105CCE782",
+        "deviceName": "Pod Light",
+        "deviceType": "Plug",
+        "enableCloudService": true,
+        "hubDeviceId": "000000000000"
+      },
+      {
+        "deviceId": "40F5203B4804",
+        "deviceName": "Mirror Ambient",
+        "deviceType": "Plug",
+        "enableCloudService": true,
+        "hubDeviceId": "000000000000"
+      },
+      {
+        "deviceId": "40F5203CD96C",
+        "deviceName": "Round Table Spot",
+        "deviceType": "Plug",
+        "enableCloudService": true,
+        "hubDeviceId": "000000000000"
+      },
+      {
+        "deviceId": "483FDA531534",
+        "deviceName": "Dining Table Spot Light",
+        "deviceType": "Plug",
+        "enableCloudService": true,
+        "hubDeviceId": "000000000000"
+      },
+      {
+        "deviceId": "C6E40DE60E0D",
+        "deviceName": "Living Room Remote",
+        "deviceType": "Remote",
+        "enableCloudService": false,
+        "hubDeviceId": "000000000000"
+      },
+      {
+        "deviceId": "D9A8EEF17F76",
+        "deviceName": "Living Room Ceiling",
+        "deviceType": "Bot",
+        "enableCloudService": true,
+        "hubDeviceId": "DB09B6C3355A"
+      },
+      {
+        "deviceId": "DB09B6C3355A",
+        "deviceName": "Hub Mini LDK",
+        "deviceType": "Hub Mini",
+        "hubDeviceId": "000000000000"
+      },
+      {
+        "deviceId": "EB18898391D8",
+        "deviceName": "Hub Mini 6J",
+        "deviceType": "Hub Mini",
+        "hubDeviceId": "000000000000"
+      },
+      {
+        "deviceId": "F56FB1A369C4",
+        "deviceName": "Dining Table Spot Bot",
+        "deviceType": "Bot",
+        "enableCloudService": false,
+        "hubDeviceId": "DB09B6C3355A"
+      }
+    ],
+    "infraredRemoteList": [
+      {
+        "deviceId": "02-202102202133-53987244",
+        "deviceName": "Living Room AC",
+        "remoteType": "Air Conditioner",
+        "hubDeviceId": "DB09B6C3355A"
+      },
+      {
+        "deviceId": "02-202102210017-84132558",
+        "deviceName": "Projector",
+        "remoteType": "DIY Projector",
+        "hubDeviceId": "DB09B6C3355A"
+      },
+      {
+        "deviceId": "02-202102230119-80364772",
+        "deviceName": "Living Room TV",
+        "remoteType": "TV",
+        "hubDeviceId": "DB09B6C3355A"
+      },
+      {
+        "deviceId": "02-202103152005-59992533",
+        "deviceName": "6J Light",
+        "remoteType": "DIY Light",
+        "hubDeviceId": "EB18898391D8"
+      },
+      {
+        "deviceId": "02-202103281819-47709646",
+        "deviceName": "6J AC",
+        "remoteType": "Air Conditioner",
+        "hubDeviceId": "EB18898391D8"
+      },
+      {
+        "deviceId": "02-202105081128-58677560",
+        "deviceName": "LG Monitor",
+        "remoteType": "DIY TV",
+        "hubDeviceId": "EB18898391D8"
+      },
+      {
+        "deviceId": "02-202107030111-98971833",
+        "deviceName": "Blue Light",
+        "remoteType": "DIY Light",
+        "hubDeviceId": "DB09B6C3355A"
+      }
+    ]
+  },
+  "message": "success"
+}
